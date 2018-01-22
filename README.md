@@ -1,6 +1,6 @@
 I've head it described to me before that using the git cli directly is like strapping a seat and wheels to an engine block and trying to drive. Its much easier if you have a car. Yet nobody has really created a popular cli Car for git yet. ([Git flow](http://datasift.github.io/gitflow/IntroducingGitFlow.html) is close but is more about enforcing a workflow not introducing a simpler CLI.)
 
-`ezgit` (working title) is meant to be a task-based UI wrapper for git.
+`ezgit` (working title) is meant to be a task-based UI wrapper for git. It is not meant to do everything git does. It is a wrapper and you can drop down to the git level at any time. It is simply meant to wrap the most common tasks.
 
 # Guidelines For Contributing
 
